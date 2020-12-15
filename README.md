@@ -12,7 +12,5 @@ npm start
 ## Preview
 
 ![First Screen](thumbnails/screen1.png)
-
 ![Second Screen](thumbnails/screen2.png)
-
 ![Third Screen](thumbnails/screen3.png)
